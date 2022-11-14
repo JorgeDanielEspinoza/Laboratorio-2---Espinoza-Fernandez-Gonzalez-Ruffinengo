@@ -1,0 +1,331 @@
+# depslib dependency file v1.0
+1668360277 source:d:\usuarios\escritorio\copia tp laboratorio\tp laboratorio ii\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"auto.h"
+
+1668342306 d:\usuarios\escritorio\copia tp laboratorio\tp laboratorio ii\menu.h
+
+1668361995 source:d:\usuarios\escritorio\copia tp laboratorio\tp laboratorio ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+	"auto.h"
+	"empleado.h"
+	"ventas.h"
+	"cliente.h"
+
+1668360367 source:d:\usuarios\escritorio\copia tp laboratorio\tp laboratorio ii\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"menu.h"
+
+1668360277 d:\usuarios\escritorio\copia tp laboratorio\tp laboratorio ii\auto.h
+
+1668299705 source:d:\usuarios\escritorio\copia tp laboratorio\tp laboratorio ii\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"ventas.h"
+	"empleado.h"
+	"auto.h"
+
+1668284267 d:\usuarios\escritorio\copia tp laboratorio\tp laboratorio ii\cliente.h
+
+1668299833 source:d:\usuarios\escritorio\copia tp laboratorio\tp laboratorio ii\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"ventas.h"
+	"auto.h"
+	"cliente.h"
+
+1668299864 d:\usuarios\escritorio\copia tp laboratorio\tp laboratorio ii\empleado.h
+
+1668361079 source:d:\usuarios\escritorio\copia tp laboratorio\tp laboratorio ii\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ventas.h"
+	"empleado.h"
+	"cliente.h"
+	"auto.h"
+
+1668346691 d:\usuarios\escritorio\copia tp laboratorio\tp laboratorio ii\ventas.h
+	"cliente.h"
+	"auto.h"
+	"empleado.h"
+
+1668377087 source:c:\users\santiago\desktop\tp final\copia tp laboratorio\tp laboratorio ii\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"menu.h"
+
+1668379396 c:\users\santiago\desktop\tp final\copia tp laboratorio\tp laboratorio ii\auto.h
+
+1668342306 c:\users\santiago\desktop\tp final\copia tp laboratorio\tp laboratorio ii\menu.h
+
+1668373536 source:c:\users\santiago\desktop\tp final\copia tp laboratorio\tp laboratorio ii\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"ventas.h"
+	"empleado.h"
+	"auto.h"
+
+1668371477 c:\users\santiago\desktop\tp final\copia tp laboratorio\tp laboratorio ii\cliente.h
+
+1668371477 c:\users\santiago\desktop\tp final\copia tp laboratorio\tp laboratorio ii\ventas.h
+	"cliente.h"
+	"auto.h"
+	"empleado.h"
+
+1668299864 c:\users\santiago\desktop\tp final\copia tp laboratorio\tp laboratorio ii\empleado.h
+
+1668369979 source:c:\users\santiago\desktop\tp final\copia tp laboratorio\tp laboratorio ii\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"ventas.h"
+	"auto.h"
+	"cliente.h"
+
+1668378589 source:c:\users\santiago\desktop\tp final\copia tp laboratorio\tp laboratorio ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+	"auto.h"
+	"empleado.h"
+	"ventas.h"
+	"cliente.h"
+
+1668375373 source:c:\users\santiago\desktop\tp final\copia tp laboratorio\tp laboratorio ii\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"auto.h"
+
+1668379646 source:c:\users\santiago\desktop\tp final\copia tp laboratorio\tp laboratorio ii\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ventas.h"
+	"empleado.h"
+	"cliente.h"
+	"auto.h"
+
+1668397357 source:d:\usuarios\escritorio\tp laboratorio ii\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"menu.h"
+
+1668439327 d:\usuarios\escritorio\tp laboratorio ii\auto.h
+
+1668395133 d:\usuarios\escritorio\tp laboratorio ii\menu.h
+
+1668373536 source:d:\usuarios\escritorio\tp laboratorio ii\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"ventas.h"
+	"empleado.h"
+	"auto.h"
+
+1668395822 d:\usuarios\escritorio\tp laboratorio ii\cliente.h
+
+1668395822 d:\usuarios\escritorio\tp laboratorio ii\ventas.h
+	"cliente.h"
+	"auto.h"
+	"empleado.h"
+
+1668299864 d:\usuarios\escritorio\tp laboratorio ii\empleado.h
+
+1668369979 source:d:\usuarios\escritorio\tp laboratorio ii\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"ventas.h"
+	"auto.h"
+	"cliente.h"
+
+1668450392 source:d:\usuarios\escritorio\tp laboratorio ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+	"auto.h"
+	"empleado.h"
+	"ventas.h"
+	"cliente.h"
+
+1668396818 source:d:\usuarios\escritorio\tp laboratorio ii\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"auto.h"
+
+1668450236 source:d:\usuarios\escritorio\tp laboratorio ii\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ventas.h"
+	"empleado.h"
+	"cliente.h"
+	"auto.h"
+
+1668397357 source:d:\usuarios\escritorio\tp laboratorio ii - uso local\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"menu.h"
+
+1668439327 d:\usuarios\escritorio\tp laboratorio ii - uso local\auto.h
+
+1668395133 d:\usuarios\escritorio\tp laboratorio ii - uso local\menu.h
+
+1668373536 source:d:\usuarios\escritorio\tp laboratorio ii - uso local\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"ventas.h"
+	"empleado.h"
+	"auto.h"
+
+1668395822 d:\usuarios\escritorio\tp laboratorio ii - uso local\cliente.h
+
+1668395822 d:\usuarios\escritorio\tp laboratorio ii - uso local\ventas.h
+	"cliente.h"
+	"auto.h"
+	"empleado.h"
+
+1668299864 d:\usuarios\escritorio\tp laboratorio ii - uso local\empleado.h
+
+1668369979 source:d:\usuarios\escritorio\tp laboratorio ii - uso local\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"ventas.h"
+	"auto.h"
+	"cliente.h"
+
+1668396818 source:d:\usuarios\escritorio\tp laboratorio ii - uso local\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"auto.h"
+
+1668450464 source:d:\usuarios\escritorio\tp laboratorio ii - uso local\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ventas.h"
+	"empleado.h"
+	"cliente.h"
+	"auto.h"
+
+1668450771 source:d:\usuarios\escritorio\tp laboratorio ii - uso local\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+	"auto.h"
+	"empleado.h"
+	"ventas.h"
+	"cliente.h"
+
+1668468472 source:d:\usuarios\escritorio\presemtacion final tp laboratorio 2\tp laboratorio ii - uso local\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"menu.h"
+
+1668439327 d:\usuarios\escritorio\presemtacion final tp laboratorio 2\tp laboratorio ii - uso local\auto.h
+
+1668395133 d:\usuarios\escritorio\presemtacion final tp laboratorio 2\tp laboratorio ii - uso local\menu.h
+
+1668468472 source:d:\usuarios\escritorio\presemtacion final tp laboratorio 2\tp laboratorio ii - uso local\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"ventas.h"
+	"empleado.h"
+	"auto.h"
+
+1668468473 d:\usuarios\escritorio\presemtacion final tp laboratorio 2\tp laboratorio ii - uso local\cliente.h
+
+1668395822 d:\usuarios\escritorio\presemtacion final tp laboratorio 2\tp laboratorio ii - uso local\ventas.h
+	"cliente.h"
+	"auto.h"
+	"empleado.h"
+
+1668299864 d:\usuarios\escritorio\presemtacion final tp laboratorio 2\tp laboratorio ii - uso local\empleado.h
+
+1668468472 source:d:\usuarios\escritorio\presemtacion final tp laboratorio 2\tp laboratorio ii - uso local\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"ventas.h"
+	"auto.h"
+	"cliente.h"
+
+1668468871 source:d:\usuarios\escritorio\presemtacion final tp laboratorio 2\tp laboratorio ii - uso local\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+	"auto.h"
+	"empleado.h"
+	"ventas.h"
+	"cliente.h"
+
+1668468472 source:d:\usuarios\escritorio\presemtacion final tp laboratorio 2\tp laboratorio ii - uso local\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"auto.h"
+
+1668468871 source:d:\usuarios\escritorio\presemtacion final tp laboratorio 2\tp laboratorio ii - uso local\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ventas.h"
+	"empleado.h"
+	"cliente.h"
+	"auto.h"
+
